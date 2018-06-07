@@ -1,0 +1,19 @@
+{
+  "name": "hacker-news-api-types",
+  "version": "1.0.0",
+  "description": "TypeScript interfaces for the Hacker News API",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunoarruda/hacker-news-api-types.git"
+  },
+  "author": "Nuno Arruda <nuno@nunoarruda.com> (https://nunoarruda.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunoarruda/hacker-news-api-types/issues"
+  },
+  "homepage": "https://github.com/nunoarruda/hacker-news-api-types#readme"
+}
