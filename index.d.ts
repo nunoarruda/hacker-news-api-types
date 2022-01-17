@@ -10,11 +10,6 @@ export interface IUser {
   id: string;
 
   /**
-   * Delay in minutes between a comment's creation and its visibility to other users.
-   */
-  delay?: number;
-
-  /**
    * Creation date of the user, in Unix Time.
    */
   created: number;
