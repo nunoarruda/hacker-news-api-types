@@ -1,6 +1,6 @@
 {
   "name": "hacker-news-api-types",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "TypeScript interfaces for the Hacker News API",
   "main": "index.d.ts",
   "scripts": {
