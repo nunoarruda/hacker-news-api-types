@@ -101,7 +101,7 @@ export interface IItem {
   score?: number;
 
   /**
-   * The title of the story, poll or job.
+   * The title of the story, poll or job. HTML.
    */
   title?: string;
 
